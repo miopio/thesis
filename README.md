@@ -12,3 +12,13 @@
 
 ### Mindmap Outlines of Lead Topics
 
+#### Auggi - gamification of gut health tracking
+
+![Auggi pg1](mindmap/MS2_mindmap_auggi_1.png)
+![Auggi pg2](mindmap/MS2_mindmap_auggi_2.png)
+![Auggi pg2](mindmap/MS2_mindmap_auggi_3.png)
+
+
+#### Visualizing Consent
+
+![consent](mindmap/MS2_mindmap_consent.png)
