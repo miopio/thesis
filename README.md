@@ -18,7 +18,11 @@
 ![Auggi pg2](mindmap/MS2_mindmap_auggi_2.png)
 ![Auggi pg2](mindmap/MS2_mindmap_auggi_3.png)
 
+https://mm.tt/1409927696?t=LZcLwtP7wT
+
 
 #### Visualizing Consent
 
 ![consent](mindmap/MS2_mindmap_consent.png)
+
+https://mm.tt/1409972566?t=LFTc9mK4Zi
