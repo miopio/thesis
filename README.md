@@ -14,15 +14,24 @@
 
 #### Auggi - gamification of gut health tracking
 
+Outline of Auggi topic:
 ![Auggi pg1](mindmap/MS2_mindmap_auggi_1.png)
 ![Auggi pg2](mindmap/MS2_mindmap_auggi_2.png)
 ![Auggi pg2](mindmap/MS2_mindmap_auggi_3.png)
 
-https://mm.tt/1409927696?t=LZcLwtP7wT
+Mindmap snaps:
+![Auggi top](mindmap/mindmap_auggi_pic_1.png)
+![Auggi bottom](mindmap/mindmap_auggi_pic_2.png)
+
+Link to mindmap: https://mm.tt/1409927696?t=LZcLwtP7wT
 
 
 #### Visualizing Consent
 
+Outline of Consent topic:
 ![consent](mindmap/MS2_mindmap_consent.png)
 
-https://mm.tt/1409972566?t=LFTc9mK4Zi
+Mindmap snaps:
+![Consent](mindmap/mindmap_consent_pic.png)
+
+Link to mindmap: https://mm.tt/1409972566?t=LFTc9mK4Zi
