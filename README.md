@@ -35,3 +35,9 @@ Mindmap snaps:
 ![Consent](mindmap/mindmap_consent_pic.png)
 
 Link to mindmap: https://mm.tt/1409972566?t=LFTc9mK4Zi
+
+---
+
+### User flow of final topic: visualizing consent
+
+![user flow](userflow/MS2_thesis_userFlow.png)
