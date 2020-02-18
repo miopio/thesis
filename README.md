@@ -40,4 +40,18 @@ Link to mindmap: https://mm.tt/1409972566?t=LFTc9mK4Zi
 
 ### User flow of final topic: visualizing consent
 
+**Audience:** 
+- people who want to know more about consent/curious
+- people who want to discover more what consent means to them/what it looks like to them
+- people who want to kunderstand what consent means to other people
+
+**Medium:** 
+- web interface and/or mobile app
+
+**Audience interaction:** 
+- self tracking, input of variables required for consent viz, see other user’s viz
+
+**Learn:** 
+- more in depth about the variability of consent, and how we can take that into account in our daily iteractions
+
 ![user flow](userflow/MS2_thesis_userFlow.png)
