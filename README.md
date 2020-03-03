@@ -55,3 +55,25 @@ Link to mindmap: https://mm.tt/1409972566?t=LFTc9mK4Zi
 - more in depth about the variability of consent, and how we can take that into account in our daily iteractions
 
 ![user flow](userflow/MS2_thesis_userFlow.png)
+
+### Potential wireframes for topic
+
+#### V1
+![landing](design/wireframe_v1/LANDING.png)
+![intro](design/wireframe_v1/INTRO.png)
+![play1](design/wireframe_v1/PLAY-1.png)
+![play2](design/wireframe_v1/PLAY-2.png)
+![play3](design/wireframe_v1/PLAY-3.png)
+![understand1](design/wireframe_v1/UNDERSTAND-1.png)
+![understand2](design/wireframe_v1/UNDERSTAND-2.png)
+![visualize](design/wireframe_v1/VISUALIZE.png)
+
+
+#### V2
+![1](design/wireframe_v2/1.png)
+![2](design/wireframe_v2/2.png)
+![3](design/wireframe_v2/3.png)
+![4](design/wireframe_v2/4.png)
+![5](design/wireframe_v2/5.png)
+![6](design/wireframe_v2/6.png)
+
