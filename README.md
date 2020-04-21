@@ -1,3 +1,8 @@
+### Pivot during coronavirus onset (March 2020): 
+
+Due to the coronavirus social distancing measures, 
+
+#### Preliminary & Pre-coronavirus 
 ### Exploratory References
 
 1. Lynch, Rebecca, and Conor Farrington. Quantified Lives and Vital Data: Exploring Health and Technology through Personal Medical Devices. Basingstoke, Hampshire: Palgrave Macmillan, 2018.
